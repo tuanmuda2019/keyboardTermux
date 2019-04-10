@@ -8,4 +8,4 @@ Termux Versi New
 	pkg install python 
 	wget https://raw.githubusercontent.com/tuanmuda2019/keyboardTermux/master/keyboard.py
 	chmod +x keyboard.py
-	python key.py
+	python keyboard.py
